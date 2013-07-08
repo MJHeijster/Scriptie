@@ -1,6 +1,6 @@
 Scriptie
 ========
-In deze git staat de laatste versie van mijn scriptie. De scriptie en het onderzoek is uitgevoegd bij Lunatech Research B.V. in Rotterdam.
+In deze git staat de laatste versie van mijn scriptie. De scriptie en het onderzoek is uitgevoerd bij Lunatech Research B.V. in Rotterdam.
 
 Over de auteur
 --------
